@@ -1,6 +1,6 @@
 # TicTacToe
 
-This game was made as a course project for the course Object Oriented Programming Management (OOPM) 
+This game was made as a course project for the course Object Oriented Programming Management (OOPM) (Semester - III)
 
 ## About
 This a GUI - based tic tac toe game with the layout of traditional tic tac toe i.e. 3x3 grid.
